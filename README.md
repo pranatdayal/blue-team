@@ -4,7 +4,7 @@ gray log documentation : http://docs.google.com/document/d/1HF9Sgs28Qq3nEMFD6Kok
 
 # Linux SCRIPTS for irsec 
 
-bash basicPingScan.sh : 
+basicPingScan.sh : 
 -----------------------
 simple script to run a basic ping scan, probably wont be used. Use nmap instead
 
